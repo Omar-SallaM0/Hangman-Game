@@ -146,7 +146,11 @@ if (wrongAttempts === 8) {
 You can add screenshots of your game here:
 
 ```markdown
-![Hangman Game](./images/hangman-preview.png)
+<img width="2732" height="1405" alt="Screenshot 2026-09-08 191512" src="https://github.com/user-attachments/assets/4c491932-94de-487b-9f99-3b4a420ddcf9" />
+
+<img width="3340" height="1395" alt="Screenshot 2026-09-08 191406" src="https://github.com/user-attachments/assets/6c98f305-54c8-47b5-9e81-7e37366ead7f" />
+
+
 ```
 
 ---
